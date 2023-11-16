@@ -1,5 +1,5 @@
-# thesis
-
+# Demo video of the project while predicting the distance
+![](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/blob/main/readme%20res/f2400df5-f2a8-4f9f-b6ab-bebaa0905c90.gif)
 # work 1 - (calculating distance of car using single camera)
 We have 5 types of dataset-
 
