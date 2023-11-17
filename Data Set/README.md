@@ -1,0 +1,16 @@
+# About dataset
+
+```
+	distanceVSdydx(Iphone13pro){
+		data for distance prediction based on L and W of a number plate
+		}
+		
+	distanceVSpixel(samsungGalaxyA12_48mpStill_image){
+		data for distance prediction based on pixel number
+		}
+		
+	number_plate_model2{
+		model for number plate detection
+		}
+
+```
