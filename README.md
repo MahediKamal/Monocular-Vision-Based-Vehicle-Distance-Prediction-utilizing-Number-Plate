@@ -13,11 +13,11 @@
       - We have two types trained model and both predict distance individually. We can choose any of them.
       - Model 1: CNN model.
         - data set for training the CNN model [LINK](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/blob/main/Data%20Set/Distance%20Vs%20Pixel%20(samsungGalaxyA12_48mpStill_image).csv)
-        - Trained CNN model (LINK)
-        - CNN model structure (IMAGE)
+        - CNN model structure:
+          - ![...](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/blob/main/readme%20res/ann1.png)
       - Model 2: regression mode.
         - data set for training the regression model [LINK](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/blob/main/Data%20Set/Distance%20Vs%20Pixel%20(samsungGalaxyA12_48mpStill_image).csv)
-        - equation of the regression model (LINK)
+        - equation of the regression model is of power 4
 - ### `Method 2: Distance Prediction in respect of height and width of the number plate. This methid can be devided into two main steps:`
   -  #### `Step 1:` Object Detection (Number plate detection). We have a YoloV5 model for detecting number plate.
      - Data set for traing the YoloV5 model [LINK](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/tree/main/Data%20Set/numberPlate_train_data)
@@ -28,11 +28,11 @@
        - We have two types trained model and both predict distance individually. We can choose any of them.
        - Model 1: CNN model.
          - data set for training the CNN model [LINK](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/blob/main/Data%20Set/Distance%20Vs%20Length-Width%20(Iphone13pro).csv)
-         - Trained CNN model (LINK)
-         - CNN model structure (IMAGE)
+         - CNN model structure:
+           - ![...](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/blob/main/readme%20res/ann2.png)
        - Model 2: regression mode.
          - data set for training the regression model [LINK](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/blob/main/Data%20Set/Distance%20Vs%20Length-Width%20(Iphone13pro).csv)
-         - equation of the regression model (LINK)
+         - equation of the regression model is of power 4
 
 
 
