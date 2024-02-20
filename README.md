@@ -1,3 +1,4 @@
+# Monocular Vision-Based Vehicle Distance Prediction utilizing Number Plate
 # Demo video of the project while predicting the distance
 ![](https://github.com/MahediKamal/Monocular-Vision-Based-Vehicle-Distance-Prediction-utilizing-Number-Plate/blob/main/readme%20res/f2400df5-f2a8-4f9f-b6ab-bebaa0905c90.gif)
 # We have implemented 2 different method for predicting the distance based on the number plate
@@ -35,4 +36,23 @@
          - equation of the regression model is of power 4
 
 
+## License
+This project is licensed under the MIT License.
 
+## Citation
+If you use any part of the dataset in your work, please use the following BibTeX entries:
+
+```
+@INPROCEEDINGS{10427654,
+  author={Kamal, Mahedi and Syed, Md. Abu and Fariha, Tasnim and Zinia, Afrina Kabir and Khan, Fahim Hasan and Rahman, Md. Mahbubur},
+  booktitle={2023 6th International Conference on Electrical Information and Communication Technology (EICT)}, 
+  title={Monocular Vision-Based Vehicle Distance Prediction utilizing Number Plate}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={YOLO;Roads;Predictive models;Road traffic;Information and communication technology;Automobiles;License plate recognition;ADAS;monocular vision;YOLOV5;regression model;ANN},
+  doi={10.1109/EICT61409.2023.10427654}}
+```
+
+### [paper link](https://ieeexplore.ieee.org/document/10427654/authors#authors)
